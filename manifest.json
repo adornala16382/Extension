@@ -1,0 +1,14 @@
+{
+    "name": "Canpanion",
+    "version": "1.0.0",
+    "description": "This is an extension to help you stay focused on Canvas assignments",
+    "manifest_version": 3,
+    "author": "Aryan D",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Canpanion"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
